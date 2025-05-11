@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# macOS system files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled output
+/dist
+/build
+
+# Electron build output
+/out
+*.log
+
+# Electron cache
+.cache/
+
+# Environment files
+.env
+.env.*.local
+
+# VS Code settings
+.vscode/
+
+# OS trash
+.Trashes
+Icon?
+
+# Optional: Ignore packaged apps
+*.asar
+*.dmg
+*.app
+*.exe
+*.zip
+
+# Optional: Ignore test coverage
+coverage/
