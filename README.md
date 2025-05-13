@@ -3,13 +3,11 @@
 A calming, minimalist Pomodoro timer with a Lo-Fi aesthetic, built to help you focus while enjoying relaxing beats.  
 **Work in Progress.** 🎨💻
 
----
 
 ### 🚧 Status
 
 🛠️ This project is currently under development. Features, design, and implementation are evolving.
 
----
 
 ### 🎯 Project Goals
 
@@ -19,7 +17,6 @@ A calming, minimalist Pomodoro timer with a Lo-Fi aesthetic, built to help you f
 - Create a soft, ambient visual style for a relaxing user experience
 - Optional: Long break cycles and simple task tracking
 
----
 
 ### 🛠 Tech Stack
 
@@ -28,7 +25,6 @@ A calming, minimalist Pomodoro timer with a Lo-Fi aesthetic, built to help you f
 - **JavaScript (ES6+)** – for timer logic and interactivity
 - Optional: Web Audio API or embedded music stream
 
----
 
 ### 📚 Learning Objectives
 
@@ -40,7 +36,6 @@ This project helps develop:
 - Integrating audio playback into desktop apps
 - Creating a relaxing and effective user interface
 
----
 
 ### ✅ To-Do
 
@@ -52,7 +47,6 @@ This project helps develop:
 - [ ] App window customization (size, style, always-on-top)
 - [ ] Add long breaks and to-do list
 
----
 
 ### 🚀 Getting Started (Coming Soon)
 
